@@ -1,0 +1,28 @@
+{
+  "id2label": {
+    "0": "Aydınlatma",
+    "1": "Diğer",
+    "2": "Hayvan/Sokak Hayvanları",
+    "3": "Park/Oyun Alanı",
+    "4": "Su/Altyapı",
+    "5": "Teşekkür",
+    "6": "Toplu Taşıma",
+    "7": "Yol/Kaldırım",
+    "8": "Çöp/Temizlik",
+    "9": "İlaçlama/Haşere",
+    "10": "İnternet/Elektrik"
+  },
+  "label2id": {
+    "Aydınlatma": 0,
+    "Diğer": 1,
+    "Hayvan/Sokak Hayvanları": 2,
+    "Park/Oyun Alanı": 3,
+    "Su/Altyapı": 4,
+    "Teşekkür": 5,
+    "Toplu Taşıma": 6,
+    "Yol/Kaldırım": 7,
+    "Çöp/Temizlik": 8,
+    "İlaçlama/Haşere": 9,
+    "İnternet/Elektrik": 10
+  }
+}

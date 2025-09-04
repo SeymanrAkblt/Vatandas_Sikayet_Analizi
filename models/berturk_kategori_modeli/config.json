@@ -1,0 +1,51 @@
+{
+  "architectures": [
+    "BertForSequenceClassification"
+  ],
+  "attention_probs_dropout_prob": 0.1,
+  "classifier_dropout": null,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "id2label": {
+    "0": "Ayd\u0131nlatma",
+    "1": "Di\u011fer",
+    "2": "Hayvan/Sokak Hayvanlar\u0131",
+    "3": "Park/Oyun Alan\u0131",
+    "4": "Su/Altyap\u0131",
+    "5": "Te\u015fekk\u00fcr",
+    "6": "Toplu Ta\u015f\u0131ma",
+    "7": "Yol/Kald\u0131r\u0131m",
+    "8": "\u00c7\u00f6p/Temizlik",
+    "9": "\u0130la\u00e7lama/Ha\u015fere",
+    "10": "\u0130nternet/Elektrik"
+  },
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "label2id": {
+    "Ayd\u0131nlatma": 0,
+    "Di\u011fer": 1,
+    "Hayvan/Sokak Hayvanlar\u0131": 2,
+    "Park/Oyun Alan\u0131": 3,
+    "Su/Altyap\u0131": 4,
+    "Te\u015fekk\u00fcr": 5,
+    "Toplu Ta\u015f\u0131ma": 6,
+    "Yol/Kald\u0131r\u0131m": 7,
+    "\u00c7\u00f6p/Temizlik": 8,
+    "\u0130la\u00e7lama/Ha\u015fere": 9,
+    "\u0130nternet/Elektrik": 10
+  },
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "model_type": "bert",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "pad_token_id": 0,
+  "position_embedding_type": "absolute",
+  "problem_type": "single_label_classification",
+  "torch_dtype": "float32",
+  "transformers_version": "4.55.0",
+  "type_vocab_size": 2,
+  "use_cache": true,
+  "vocab_size": 32000
+}
