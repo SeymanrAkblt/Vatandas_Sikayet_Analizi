@@ -1,9 +1,4 @@
 # Vatandas_Sikayet_Analizi
-Aşağıdaki metni doğrudan **README.md** dosyana yapıştırabilirsin. İçeriği mevcut repo yapına ve dosya isimlerine göre hazırladım; bölümler pratik adımlar içerir ve staj değerlendirmesi için de düzenlidir.
-
----
-
-# Vatandaş Şikâyet Analizi
 
 Bu repo, sosyal medya/şikâyet metinlerinden **“şikâyet mi değil mi?”** ve **“hangi kategori?”** sorularına yanıt verecek doğal dil işleme (NLP) modellerinin geliştirilmesi için hazırlanmış **Jupyter/Colab not defterlerini** ve eğitilmiş model klasörlerini içerir. Repo MIT lisanslıdır. ([GitHub][1])
 
@@ -171,8 +166,6 @@ Vatandas_Sikayet_Analizi/
 
 * Bu proje **MIT** lisansı ile sunulmaktadır. Ayrıntılar için `LICENSE` dosyasına bakınız. ([GitHub][1])
 
----
 
-İstersen, README’ye **ekran görüntüsü/gif** koyman için bir `assets/` klasörü öneririm (ör. eğitim grafikleri, model demo ekranı). Ayrıca, yerel/Colab çalıştırma sırasında **özel veri yollarını** not defterleri içinde bir hücrede **“tek noktadan tanımla”** yöntemiyle ayarlanabilir yapmanı tavsiye ederim.
 
 [1]: https://github.com/SeymanrAkblt/Vatandas_Sikayet_Analizi "GitHub - SeymanrAkblt/Vatandas_Sikayet_Analizi"
